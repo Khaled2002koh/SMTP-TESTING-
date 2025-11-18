@@ -38,5 +38,6 @@ No external dependencies are required.
 Clone the repository:
 
 ```bash
-git clone https://github.com/USERNAME/REPO.git
-cd REPO
+git clone https://github.com/Khaled2002koh/SMTP-TESTING-.git
+cd SMTP-TESTING
+python3 main.py
